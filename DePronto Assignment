@@ -1,1 +1,63 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Apartment Therapy</title>
+		<br>&nbsp;&nbsp;&nbsp;&nbsp;Apartment Therapy<br><br>
+		<style>
+		body {
+		  margin: 0;
+  		  font-family: Arial;
+		}
 
+		.topnav {
+  			overflow: hidden;
+  			background-color: White;
+		}
+
+		.topnav a {
+  			float: left;
+  			color: Black;
+  			text-align: center;
+  			padding: 14px 16px;
+  			text-decoration: none;
+  			font-size: 17px;
+		}
+
+		.topnav a:hover {
+  			background-color: #FFB6C1;
+  			color: black;
+		}
+
+		.topnav a.active {
+  			background-color: #04AA6D;
+  			color: white;
+		}
+		</style>
+	</head>
+	<body>
+		<div class="topnav">
+  		<a href="#House Tours">House Tours</a>
+  		<a href="#Style">Style</a>
+  		<a href="#How To">How To</a>
+  		<a href="#Organize and Clean">Organize and Clean</a>
+  		<a href="#Living">Living</a>
+  		<a href="#Shop">Shop</a>
+  		<a href="#More">More</a>
+		</div>
+
+		<br><br>
+	
+		<a href = "Blog1.html" target = "_blank">
+		&nbsp;&nbsp;&nbsp;&nbsp;<img src = "img1.PNG" alt = "ERROR" style = "width:220px;">
+		<p>&nbsp;&nbsp;&nbsp;&nbsp;5 Things You Might Not Know 
+		<br>&nbsp;&nbsp;&nbsp;&nbsp;About Buying a House with a Pool</p></a>
+
+		<br><br>
+		<a href = "">
+		&nbsp;&nbsp;&nbsp;&nbsp;<img src = "img2.PNG" alt = "ERROR" style = "width:220px;">
+		<p>&nbsp;&nbsp;&nbsp;&nbsp;Get Ready to Declutter Your Home in Just  
+		<br>&nbsp;&nbsp;&nbsp;&nbsp;14 Days with the 2022 Decluttering Cure</p></a>
+
+		<br><br><br>
+	</body>
+</html>
